@@ -1,1 +1,5 @@
-TODO readme file :)
+# Layer app
+
+`npm run build`
+
+`npm start`
